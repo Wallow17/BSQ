@@ -1,5 +1,5 @@
 # BSQ
-find the Biggest SQuare
+"find the Biggest SQuare"
 Note : 19/20
 
 ## Subject:
@@ -18,3 +18,6 @@ You program must print the board, with some “.” replaced by “x” to repre
 
 If ever there are several solutions, you have to represent only the highest square. If they
 are still several solutions, choose the square to the left.
+
+## How to use:
+./bsq example_file
