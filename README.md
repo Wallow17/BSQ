@@ -1,5 +1,6 @@
 # BSQ
 find the Biggest SQuare
+Note : 19/20
 
 ## Subject:
 You must find the largest possible square on a board while avoiding obstacles.
